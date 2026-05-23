@@ -22,4 +22,13 @@ My java learning journey and practice programs
 - one dimensional arrays
 - two dimensional arrays
 - multidimensional arrays
-- length and length method 
+- length and length method
+  6.Array variable assignment
+  7. Variables
+  - Primitive variables
+  - Reference variables
+    8. Based on the position of Decalartion and Behaviour, three types
+    -Instance Variable
+    -Static Variable
+    -Local Variable
+    ALL THESE CASES AND DIFFERENT SITUATION PRATICE ON VS CODE
