@@ -32,3 +32,8 @@ My java learning journey and practice programs
     -Static Variable
     -Local Variable
     ALL THESE CASES AND DIFFERENT SITUATION PRATICE ON VS CODE
+    9.Local variable
+    10. Variable number of argument methods
+    -difference cases
+    - equivalence between variable argument parameter and one dimensional array
+    - 
