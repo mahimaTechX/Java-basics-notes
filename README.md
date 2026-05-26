@@ -36,4 +36,19 @@ My java learning journey and practice programs
     10. Variable number of argument methods
     -difference cases
     - equivalence between variable argument parameter and one dimensional array
+11. Structure of java(main method)
+   - enhancement in the latest version as compare to previous one
+12. Command line argument
+13. Java coding standards
+    - coding standards for class name
+    - coding standards for interface name
+    - coding standards for method name
+    - coding standards for variable name
+    - coding standards for constant name
+  14. Java Bean coding standards
+    - Syntax for setter method
+    - coding standards for listeners
+  15. Operators and assignments
+    - Increament and decreament operator
+    - Arthematic operators
     - 
