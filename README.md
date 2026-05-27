@@ -51,4 +51,12 @@ My java learning journey and practice programs
   15. Operators and assignments
     - Increament and decreament operator
     - Arthematic operators
+    - String concatenation operator
+    - Relational operator
+    - Equality operator
+    - Difference between (==) and.equals method
+    - instanceof operator
+    - Bitwise operators
+    - Bitwise complement operator
+    - Boolean complement operator
     - 
