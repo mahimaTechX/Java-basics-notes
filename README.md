@@ -59,4 +59,14 @@ My java learning journey and practice programs
     - Bitwise operators
     - Bitwise complement operator
     - Boolean complement operator
+    - short- Circuit operators (&&,||)
+    - Type cast operator
+    - implicit type casting
+    - explicit type casting
+    - Assignment operator
+    - Conditional operator
+    - new operator
+    - [] operator
+    - java operator precedence
+    - evaluation order of java operands
     - 
