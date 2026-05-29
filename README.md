@@ -69,4 +69,19 @@ My java learning journey and practice programs
     - [] operator
     - java operator precedence
     - evaluation order of java operands
-    - 
+  16. Flow control
+    - Selection Statement
+      #if-else statement: syntax, errors, method
+      #switch statement: syntax, errors, nethod, default case
+    - Iterative statement
+      #while
+      #do-while
+      #for
+      #for-each loop
+    - Transfer statement
+      #break
+      #continue
+      #return
+      # try-catch-finally
+      #assert
+      
