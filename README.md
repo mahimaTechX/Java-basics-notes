@@ -78,6 +78,8 @@ My java learning journey and practice programs
       #do-while
       #for
       #for-each loop
+      # difference between iterator and iterable
+      
     - Transfer statement
       #break
       #continue
