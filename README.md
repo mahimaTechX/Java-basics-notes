@@ -93,4 +93,9 @@ My java learning journey and practice programs
    -explicit class import
    -implicit class import
   -Static import
+19.Package
+- different conditions and cases related to packages.
+  program of checking whether the number is prime or not
+- java basic architecture
+- 
       
