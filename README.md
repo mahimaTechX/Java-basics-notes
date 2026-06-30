@@ -97,5 +97,30 @@ My java learning journey and practice programs
 - different conditions and cases related to packages.
   program of checking whether the number is prime or not
 - java basic architecture
-- 
-      
+20. class level modifiers
+  - public
+  - final
+  - native
+  - private
+  - abstract
+  - strictfp
+  - default
+  - static
+  - trasient
+  - protected
+  - synchronised
+  - volatile
+21. diff. between access modifier and access specifier
+22. Interfaces
+23. Adapter classes
+24. Role of new keyword
+------------------------------------------------------OOPS-------------------------------------------
+DATA HIDING
+ABSTRACTION
+ENCAPSULATION
+TIGHTLY ENCAPSULATED CLASSES
+IS -A RELATIONSHIP
+HAS A RELATIONSHIP
+METHOD SIGNATURE
+OVERLOADING
+
