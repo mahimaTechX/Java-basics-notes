@@ -239,4 +239,9 @@ DIFFERENT COMBINATIONS OF CLASSES WITHIN INTERFACE OR INTERFACE WITHIN CLASSES
   -charValue()
   -booleanValue()
   3.pareXXX()
-  4.toString()  
+  4.toString()
+  Patrial Hierarchy of java.lang.Package
+  -void class
+Autoboxing and Auto-Unboxing
+Relation between (==) operator and .equals()
+#Contract between .equals() and Hashcode()
