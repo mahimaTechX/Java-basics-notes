@@ -244,4 +244,17 @@ DIFFERENT COMBINATIONS OF CLASSES WITHIN INTERFACE OR INTERFACE WITHIN CLASSES
   -void class
 Autoboxing and Auto-Unboxing
 Relation between (==) operator and .equals()
-#Contract between .equals() and Hashcode()
+#Contract between .equals() and Hash code()
+- clone()
+- Shallow cloning v/s Deep cloning
+# Interning of String Object
+# File I/O
+-File Writer
+-File Reader
+-Buffered Reader
+-Print Writer
+# Serialization
+# Deserialization
+# Customized Serialization
+
+
